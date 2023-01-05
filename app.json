@@ -1,0 +1,27 @@
+{
+  "id": "45e6f97a-3cb7-4a11-85c3-cac167969a41",
+  "name": "Location Forklifts",
+  "publisher": "The 365 People",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}
