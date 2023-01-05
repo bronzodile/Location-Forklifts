@@ -11,7 +11,12 @@
   "url": "",
   "logo": "",
   "dependencies": [
-
+    {
+      "id": "3a4b60c4-ad9a-4cb8-a194-c457d905ec05",
+      "publisher": "The 365 People",
+      "name": "Location Bays",
+      "version": "1.0.0.0"
+    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
